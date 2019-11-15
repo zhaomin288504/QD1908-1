@@ -1,0 +1,79 @@
+{
+    "shop":[{"img":"http://img1-lemall.letvimg.com/le-cloud/s-pc/resource/img/2019-11-07/201911/1573096527213.jpg"},
+        {   
+            "color1":"green",
+            "color2":"orange",
+            "title1" :"新品",
+            "title2" :"热卖",
+            "img":"http://img2-lemall.letvimg.com/le-cloud/s-pc/resource/img/2019-05-17/201905/1558061623851.jpg",
+            "imglink":"https://www.lemall.com/product/products-pid-MLLQ000002.html",
+            "message1":"Y32底座版",
+            "message2":"1GB+8GB大存储|全网海量资源|真人工智能系统",
+            "money1":"￥799",
+            "money2":"￥999"
+            
+            
+        },{
+            "color1":"red",
+            "color2":"skyblue",
+            "title1" :"新品",
+            "title2" :"直降700",
+            "img":"http://img2-lemall.letvimg.com/le-cloud/s-pc/resource/img/2019-11-04/201911/1572851296081.jpg",
+            "imglink":"https://www.lemall.com/product/products-pid-MLHH000072.html",
+            "message1":"超5 X50底座版",
+            "message2":"金属超薄机身丨2GB+16GB大存储",
+            "money1":"￥3299",
+            "money2":"￥3999"
+            
+        },{
+            "color1":"red",
+            "color2":"skyblue",
+            "title1" :"以旧换新",
+            "title2" :"直降500",
+            "img":"http://img2-lemall.letvimg.com/le-cloud/s-pc/resource/img/2019-09-09/201909/1568020104380.jpg",
+            "imglink":"https://www.lemall.com/product/products-pid-GWGT550635.html",
+            "message1":"X55L底座版",
+            "message2":"Mstar四核处理器 | 4K HDR超高清",
+            "money1":"￥2899",
+            "money2":"￥3399"
+        },{
+            "color1":"red",
+            "color2":"skyblue",
+            "title1" :"爆款",
+            "title2" :"直降1000",
+            "img":"http://img2-lemall.letvimg.com/le-cloud/s-pc/resource/img/2019-09-09/201909/1568020838827.jpg",
+            "imglink":"https://www.lemall.com/product/products-pid-GWGT400303.html",
+            "message1":"X40C底座版",
+            "message2":"超清降噪引擎丨BT709 100%色域覆盖",
+            "money1":"￥1299",
+            "money2":"￥2299"
+        },{
+            "color1":"red",
+            "color2":"orange",
+            "title1" :"以旧换新",
+            "title2" :"爆款",
+            "img":"http://img2-lemall.letvimg.com/le-cloud/s-pc/resource/img/2018-12-06/201812/1544072651289.jpg",
+            "imglink":"https://www.lemall.com/product/products-pid-GWGT501251.html",
+            "message1":"X50 Pro底座版",
+            "message2":"Mstar 4核处理器 | 16GB闪存",
+            "money1":"￥2199",
+            "money2":"￥2599"
+        },{
+            "color1":"orange",
+            "color2":"skyblue",
+            "title1" :"热卖",
+            "title2" :"直降500",
+            "img":"http://img2-lemall.letvimg.com/le-cloud/s-pc/resource/img/2019-05-17/201905/1558061340463.jpg",
+            "imglink":"https://www.lemall.com/product/products-pid-MLHH000050.html",
+            "message1":"Zero65漫威版",
+            "message2":"专属定制漫威元素|3GB+16GB大存储",
+            "money1":"￥7499",
+            "money2":"￥7999"
+        }
+    ]
+    
+    
+    
+    
+        
+}
